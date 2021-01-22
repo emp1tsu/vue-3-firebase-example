@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <h1>home</h1>
+    <h1>UserPalylists</h1>
   </div>
 </template>
 
@@ -8,7 +8,7 @@
 import { defineComponent } from "vue";
 
 export default defineComponent({
-  name: "Home",
+  name: "UserPalylists",
   components: {},
 });
 </script>
